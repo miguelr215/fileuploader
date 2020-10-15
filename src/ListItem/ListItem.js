@@ -35,7 +35,6 @@ class ListItem extends React.Component {
                         <ControlBar />
                     </div>
                 </div>
-                list item
             </div>
         );
     }
